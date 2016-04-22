@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import org.omg.Messaging.SyncScopeHelper;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -44,6 +46,7 @@ public class Main {
 		
 		System.out.println("LICZNIK = " + licznik);
 		System.out.println("SUMA = " + suma);
+		System.out.println("GIT");
 	}
 
 }
